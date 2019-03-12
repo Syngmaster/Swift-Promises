@@ -1,4 +1,4 @@
-# Swift-Promises
+# Swift Promises
 Promise concept in Swift
 Handy solution for async tasks to avoid the "callback hell"
 
