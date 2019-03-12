@@ -1,5 +1,6 @@
 # Swift Promises
-Promise concept in Swift
+Promise concept in Swift.
+
 Handy solution for async tasks to avoid the "callback hell"
 
 
