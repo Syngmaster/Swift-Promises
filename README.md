@@ -4,7 +4,8 @@ Handy solution for async tasks to avoid the "callback hell"
 
 
 ### How to use:
-1. Setup your sequence.
+1. Drag and drop these files into your project folder
+2. Setup your sequence.
 
 ```
 func createSequence() -> SequenceASync<Error?> {
@@ -63,7 +64,7 @@ func thirdTask() -> SequenceASync<Any> {
 }
 ```
 
-2. Implement in your code
+3. Implement in your code
 
 ```
 let queue = DispatchQueue.global(qos: .userInitiated)
